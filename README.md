@@ -12,8 +12,7 @@ This repository contains the code and documentation for a property price predict
 - [Recommended Next Steps](#recommended-next-steps)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Business Problem
 The goal of this project is to assist real estate agents and buyers in understanding the market value of properties in Puerto Rico. By developing a predictive model, stakeholders can make informed decisions when buying or selling properties.
@@ -46,4 +45,4 @@ The goal of this project is to assist real estate agents and buyers in understan
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/property-price-prediction.git
+   git clone https://github.com/yaterjo/property-price-prediction.git
