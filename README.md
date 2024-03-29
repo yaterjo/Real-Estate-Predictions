@@ -22,8 +22,11 @@ The dataset used in this project contains various features such as the number of
 
 ## Data Preparation and EDA
 To prepare the data for modeling, we performed several preprocessing steps, including filtering the dataset to focus on properties in Puerto Rico, handling missing values using imputation techniques, encoding categorical variables, and removing outliers. Exploratory data analysis helped us understand the distribution and relationships of features, guiding our preprocessing decisions.
+
 ![Alt text](/pictures/matrix.JPG)
+
 ![Alt text](/pictures/outlierb4.png)
+
 ![Alt text](/pictures/distribution.png)
 
 ## Models
