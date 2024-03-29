@@ -22,12 +22,9 @@ The dataset used in this project contains various features such as the number of
 
 ## Data Preparation and EDA
 To prepare the data for modeling, we performed several preprocessing steps, including filtering the dataset to focus on properties in Puerto Rico, handling missing values using imputation techniques, encoding categorical variables, and removing outliers. Exploratory data analysis helped us understand the distribution and relationships of features, guiding our preprocessing decisions.
-<p align="center">
-  <img src = ./pictures/matrix.JPG>
-<p align="center">
-  <img src = ./pictures/outlierb4.png>
-<p align="center">
-  <img src = ./pictures/distribution.png>
+!(/pictures/matrix.JPG)
+!(/pictures/outlierb4.png)
+!(/pictures/distribution.png)
 
 ## Models
 For modeling, we selected the Random Forest regression algorithm due to its ability to handle complex relationships in the data and resist overfitting. We trained the model using the preprocessed dataset and fine-tuned hyperparameters using GridSearchCV to optimize performance. Additionally, we evaluated other regression models such as AdaBoost, Gradient Boosting, and XGBoost to compare their performance against Random Forest.
