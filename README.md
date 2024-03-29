@@ -42,5 +42,5 @@ To further improve the model's performance, we recommend exploring additional fe
 - Python programming language
 - Libraries such as pandas, NumPy, scikit-learn, and matplotlib
 - Jupyter Notebook for code execution and documentation
-- Access to the dataset containing property features and prices in Puerto Rico
+- Access to the dataset containing property features and prices in Puerto Rico from RealEstate.com
 - Basic understanding of machine learning concepts and techniques
