@@ -23,23 +23,11 @@ The dataset used in this project contains various features such as the number of
 ## Data Preparation and EDA
 To prepare the data for modeling, we performed several preprocessing steps, including filtering the dataset to focus on properties in Puerto Rico, handling missing values using imputation techniques, encoding categorical variables, and removing outliers. Exploratory data analysis helped us understand the distribution and relationships of features, guiding our preprocessing decisions.
 
-![Alt text](/pictures/matrix.JPG)
-
-![Alt text](/pictures/outlierb4.png)
-
-![Alt text](/pictures/distribution.png)
-
 ## Models
 For modeling, we selected the Random Forest regression algorithm due to its ability to handle complex relationships in the data and resist overfitting. We trained the model using the preprocessed dataset and fine-tuned hyperparameters using GridSearchCV to optimize performance. Additionally, we evaluated other regression models such as AdaBoost, Gradient Boosting, and XGBoost to compare their performance against Random Forest.
 
 ## Results
 The final Random Forest model achieved promising results on the test set, with a Mean Absolute Error (MAE) of approximately 38,154 and an R² score of 0.92. These metrics indicate that the model explains about 92% of the variance in property prices. Evaluation on additional models provided insights into their comparative performance and potential areas for improvement.
-<p align="center">
-  <img src = ./pictures/MAE.JPG)
-<p align="center">
-  <img src = ./pictures/RSME.JPG)
-<p align="center">
-  <img src = ./pictures/R2.JPG)
 
 ## Recommended Next Steps
 To further improve the model's performance, we recommend exploring additional features that may influence property prices, such as economic indicators, neighborhood characteristics, and property amenities. Additionally, conducting feature engineering and incorporating advanced modeling techniques could enhance predictive accuracy. Continuous monitoring and updating of the model based on new data and market trends are also essential for maintaining its relevance and effectiveness.
