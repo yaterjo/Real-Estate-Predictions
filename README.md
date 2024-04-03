@@ -1,5 +1,5 @@
 # Price Predictions: Puerto Rico Real Estate
-!(/Pictures/PRrealestate.png)
+
 ## Overview
 This repository contains the code and documentation for a property price prediction project focused on the Puerto Rico area under $1,000,000. The project aims to develop a machine learning model that predicts property prices based on various features such as the number of bedrooms, bathrooms, lot size, house size, and location.
 
@@ -12,7 +12,7 @@ This repository contains the code and documentation for a property price predict
 - [Recommended Next Steps](#recommended-next-steps)
 - [Requirements](#requirements)
 
-
+**Authors**: Johnathan Yater and Lotus Baumgarner
 
 ## Business Problem
 The objective of this project is to develop a machine learning model to predict property prices in Puerto Rico. Accurate property price predictions are crucial for real estate agents and potential buyers to make informed decisions in the housing market. By leveraging data-driven techniques, we aim to provide insights into the factors influencing property prices and improve the understanding of the market dynamics in Puerto Rico.
